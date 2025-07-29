@@ -1,4 +1,4 @@
-<h1>Extending Kubernetes via CRDs and Operators</h1>
+<h1>Extending Kubernetes via Custom Resource Definition (CRD) and Operator</h1>
 
 
 <h2>Description</h2>
