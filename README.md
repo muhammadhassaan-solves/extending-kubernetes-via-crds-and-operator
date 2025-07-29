@@ -39,9 +39,6 @@ Update the Deployed Custom Resource (scaling, patching) and Verified the Operato
 <img src="https://i.postimg.cc/3wWD3mry/5.jpg" />
 <br />
 <br />
-Update the deployed custom resource (scaling, patching) and verified the Operator Auto-Updates <br/>
-<img src="https://i.postimg.cc/3wWD3mry/5.jpg" />
-<br />
-<br />
+
 </p>
 
